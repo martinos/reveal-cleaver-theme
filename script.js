@@ -57,6 +57,7 @@ Reveal.initialize({
   // Transition style
   transition: 'none', // none/fade/slide/convex/concave/zoom
   // Transition speed
+  theme: 'night',
   transitionSpeed: 'default', // default/fast/slow
   // Transition style for full page slide backgrounds
   backgroundTransition: 'fade', // none/fade/slide/convex/concave/zoom
